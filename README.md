@@ -7,5 +7,6 @@
 
 
 ### serverless + typescript + node.js
--> https://chamch-dev.tistory.com/16
+-> https://levelup.gitconnected.com/creating-a-simple-serverless-application-using-typescript-and-aws-part-1-be2188f5ff93    
+-> https://chamch-dev.tistory.com/16      
 -> https://gyuha.tistory.com/515
