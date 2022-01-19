@@ -13,6 +13,8 @@
 -> https://jojoldu.tistory.com/569    
 nodeenv 설치 // 17버전에서는 api 관련 특정에러 발생 // 16버전으로 사용할것 
 
+-> nvm 으로 버전관리
+https://webruden.tistory.com/271
 
 
 # credential 따라 다르게 배포
